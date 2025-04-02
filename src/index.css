@@ -1,1 +1,9 @@
 @import "tailwindcss";
+.gif-bg {
+    background: url('/public/bac.gif') no-repeat center center fixed;
+    background-size: cover;
+  }
+
+.pop{
+    font-family: "poppins",sans-serif;
+}
