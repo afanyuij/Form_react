@@ -8,7 +8,7 @@ export function Register(){
           <div className="flex justify-center items-center mb-5">
   
           <img src="/public/icons8-playerme-100.png" className="w-[100px]" alt=""  />
-          <h1 className="text-7xl font-bold bg-gradient-to-r from-gray-100 via-fuchsia-300 to-yellow-400 text-transparent bg-clip-text pop  text-center">Universe</h1>
+          <h1 className="text-7xl font-bold bg-gradient-to-r from-gray-100 via-fuchsia-300 to-yellow-400 text-transparent bg-clip-text pop  text-center">MusicUniverse</h1>
           </div>
           <p className="pop text-center mb-5">Discover, create, and experience music like never before.</p>
           <div className="flex gap-1 justify-center items-center">
