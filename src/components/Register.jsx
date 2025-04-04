@@ -1,7 +1,9 @@
-
+import { Navbar } from "./Navbar"
 export function Register(){
     return (
-    //   <div className="gif-bg h-screen w-full p-9 text-white text-2xl ">
+       <div className="gif-bg h-screen w-ful text-white text-2xl ">
+            <Navbar />  
+      <div className="gif-bg h-screen w-full p-9 text-white text-2xl ">
         <div className="flex justify-center  items-center text-white">
   
         <div className="pop w-[60%] mt-14">
@@ -44,6 +46,8 @@ export function Register(){
         </div>
   
      
+       </div>
+       </div>
        </div>
       
     )

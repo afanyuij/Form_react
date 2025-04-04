@@ -7,4 +7,6 @@
 .pop{
     font-family: "poppins",sans-serif;
 }
-
+body{
+  overflow-x: hidden;
+}
